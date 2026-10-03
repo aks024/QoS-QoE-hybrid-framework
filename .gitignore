@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+*.env
+
+# ML outputs
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Logs
+*.log
+
+# Large datasets
+Dataset/
+data/
+datasets/
+
+# Experiment outputs
+runs/
+outputs/
+checkpoints/
+results/
